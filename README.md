@@ -1,5 +1,11 @@
-### Hi there 👋
+### Ryu Junyul (Daniel Ryu)
 
+#### Education
+- Seoul National University, Business & Computer Science Major.
+- Curriculum
+- 
+#### Career
+- Vanilla Bridge Fronted Developer (2020.07 ~ 2020.12)
 <!--
 **gajagajago/gajagajago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
