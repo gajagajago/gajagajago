@@ -1,9 +1,16 @@
 ### Ryu Junyul (Daniel Ryu)
 
 #### Education
-- Seoul National University, Business & Computer Science Major.
-- Curriculum
-- 
+Seoul National University, Business & Computer Science Major.
+
+##### Curriculum
+* 16-1
+* 16-2
+* 19-1
+* 19-2
+* 20-1
+* 20-2
+
 #### Career
 - Vanilla Bridge Fronted Developer (2020.07 ~ 2020.12)
 <!--
