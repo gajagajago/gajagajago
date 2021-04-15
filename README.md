@@ -1,29 +1,16 @@
-### Ryu Junyul (Daniel Ryu)
+## Ryu Junyul (Daniel Ryu)
 
-#### Education
+### Education 🎓 
 Seoul National University, Business & Computer Science Major.
 
-##### Curriculum
-* 16-1
-* 16-2
-* 19-1
-* 19-2
-* 20-1
-* 20-2
+#### Curriculum 💻
+* 21-2: 운영체제, 네트워크, 알고리즘, 경영전략, (데이터베이스)
+* 21-1: 컴퓨터구조, 논리설계, 이산수학, 전기전자회로, 관리회계, 경영정보론
+* 20-1: 자료구조, 컴퓨터프로그래밍, 인사관리, 벤처창업론
+* 19-2: 벤처창업웹프로그래밍1, 컴퓨터의 개념 및 실습, 회계원리, 기업재무론
+* 19-1: 조직행위론, 마케팅사례연구, 경영과학, 재무관리
+* 16-2: 경제원론, 마케팅관리
+* 16-1: 경영학원론
 
-#### Career
-- Vanilla Bridge Fronted Developer (2020.07 ~ 2020.12)
-<!--
-**gajagajago/gajagajago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career 🚀
+* Vanilla Bridge Fronted Developer (2020.07 ~ 2020.12)
