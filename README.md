@@ -19,5 +19,5 @@ Seoul National University, [Business](https://cba.snu.ac.kr/) & [Computer Scienc
 
 ### Skills 🔪
 Strong: ```Flutter``` ```Javascript``` ```Ruby on Rails``` ```HTML``` ```SCSS```<br/>
-Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Bluespec Verilog``` <br/>
+Intermediate: ```Java``` ```C++``` ```Vue.js``` ```RISC-V``` ```Bluespec Verilog``` <br/>
 Knowledge: ```Python``` ```Verilog``` ```React``` ```React Native``` <br/>
