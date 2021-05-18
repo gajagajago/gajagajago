@@ -23,4 +23,4 @@ Intermediate: ```Java``` ```C++``` ```Vue.js``` ```RISC-V``` ```Bluespec Verilog
 Knowledge: ```Python``` ```Verilog``` ```React``` ```React Native``` <br/>
 
 ### Interests 🔍
-Embedded Systems & Machine Learning 
+Embedded Systems 📀 & Machine Learning 🤖
