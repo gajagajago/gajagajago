@@ -1,7 +1,7 @@
 ## Ryu Junyul (Daniel Ryu)
 
 ### Education 🎓 
-Seoul National University, [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/) Major.
+Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
 
 #### Curriculum 💻
 ```
@@ -24,4 +24,4 @@ Intermediate: ```Java``` ```C++``` ```Vue.js``` ```RISC-V``` ```Bluespec Verilog
 Knowledge: ```Python``` ```Verilog``` ```React``` ```React Native``` <br/>
 
 ### Interests 🔍
-Embedded Systems 📀 & Machine Learning 🤖
+Looking forward for M.S in [Embedded Systems 📀](http://davinci.snu.ac.kr/) || [Machine Learning 🤖](http://mllab.snu.ac.kr/)
