@@ -24,4 +24,4 @@ Intermediate: ```Java``` ```C++``` ```Vue.js``` ```RISC-V``` ```Bluespec Verilog
 Knowledge: ```Python``` ```Verilog``` ```React``` ```React Native``` <br/>
 
 ### Interests 🔍
-Looking forward for M.S in [Embedded Systems 📀](http://davinci.snu.ac.kr/) || [Machine Learning 🤖](http://mllab.snu.ac.kr/)
+Looking forward for M.S in [Embedded Systems 📀](https://cse.snu.ac.kr/lab/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%B0%EA%B5%AC%EC%8B%A4) || [Machine Learning 🤖](http://mllab.snu.ac.kr/)
