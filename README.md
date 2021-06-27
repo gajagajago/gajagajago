@@ -20,7 +20,7 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) Frontend Developer (2020.07 ~ 2020.12)<br/>
 
 ### Skills 🔪
-Strong: ```Flutter``` ```JavaScript``` ```Ruby on Rails``` ```HTML``` ```SCSS```<br/>
+Strong: ```Flutter``` ```Dart``` ```JavaScript``` ```Ruby on Rails``` ```HTML``` ```SCSS```<br/>
 Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BlueSpec Verilog``` ```Verilog``` <br/>
 Knowledge: ```React``` ```React Native``` <br/>
 
