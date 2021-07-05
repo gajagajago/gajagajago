@@ -1,5 +1,8 @@
 ## Ryu Junyul (Daniel Ryu)
 
+### I'm currently ⏳ ...
+Deeply immersed in studying ***FANTASTIC*** ML & DL 🤓
+
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
 
