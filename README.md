@@ -2,6 +2,9 @@
 
 ### I'm currently ⏳ ...
 Deeply immersed in ***Machine Learning & Deep Learning*** 🤓
+Leading FE development @ app [GUAM](https://github.com/wafflestudio/guam_front)
+Working as SW developer @ [Samsung Electronics CE VD Dept.](https://www.samsung.com/sec/)
+Intern @ [SNU CARES lab](http://davinci.snu.ac.kr/)
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
