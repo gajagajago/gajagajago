@@ -1,10 +1,10 @@
 ## Ryu Junyul (Daniel Ryu)
 
 ### I'm currently ⏳ ...
-Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
-Leading FE development @ app [GUAM](https://github.com/wafflestudio/guam_front) <br/>
-Working as SW developer @ [Samsung Electronics CE VD Dept.](https://www.samsung.com/sec/) <br/>
+FE lead @ app [GUAM](https://github.com/wafflestudio/guam_front) <br/>
+SW developer @ [Samsung Electronics CE VD Dept.](https://www.samsung.com/sec/) <br/>
 Intern @ [SNU CARES lab](http://davinci.snu.ac.kr/) <br/>
+Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
