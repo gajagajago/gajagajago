@@ -26,9 +26,9 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) Frontend Developer (2020.07 ~ 2020.12)<br/>
 
 ### Skills 📚
-Strong: ```Flutter``` ```Dart``` ```JavaScript``` ```Ruby on Rails``` ```HTML``` ```SCSS```<br/>
-Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BlueSpec Verilog``` ```Verilog``` <br/>
-Knowledge: ```React``` ```React Native``` <br/>
+Strong: ```Flutter``` ```JavaScript``` ```Ruby on Rails``` ```HTML``` ```SCSS```<br/>
+Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BSV`` ```Verilog``` <br/>
+Knowledge: ```React``` ```React Native``` ```Tensorflow 2.0``` <br/>
 
 ### Interests 🔍
 Looking forward for M.S in [Embedded Systems 📀](https://cse.snu.ac.kr/lab/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%B0%EA%B5%AC%EC%8B%A4) || [Machine Learning 🤖](http://mllab.snu.ac.kr/)
