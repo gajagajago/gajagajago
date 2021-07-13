@@ -33,5 +33,5 @@ Strong: ```Flutter``` ```JavaScript``` ```Ruby on Rails``` ```HTML``` ```SCSS```
 Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BSV``` ```Verilog``` <br/>
 Knowledge: ```React``` ```React Native``` ```Tensorflow 2.0``` <br/>
 
-#### Contact 📧
+### Contact 📧
 Email: gajagajago@naver.com
