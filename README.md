@@ -2,7 +2,7 @@
 
 ### I'm currently ⏳ ...
 FE lead @ app [GUAM](https://github.com/wafflestudio/guam_front) <br/>
-SW developer @ [Samsung Electronics CE VD Dept. Intelligent Solutions Lab](https://www.samsung.com/sec/) <br/>
+SW developer @ [Samsung Electronics CE VD Dept. Intelligent Solution Lab](https://www.samsung.com/sec/) <br/>
 Intern @ [SNU CARES Lab](http://davinci.snu.ac.kr/) <br/>
 Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
 
