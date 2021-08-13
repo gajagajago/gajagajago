@@ -11,6 +11,7 @@ M.S in [Machine Learning 🤖](http://mllab.snu.ac.kr/) || [Embedded Systems �
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
+[Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 #### Curriculum 💻
 ```
