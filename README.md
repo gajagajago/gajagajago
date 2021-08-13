@@ -10,7 +10,7 @@ Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
 M.S in [Machine Learning 🤖](http://mllab.snu.ac.kr/) || [Embedded Systems 📀](https://cse.snu.ac.kr/lab/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%B0%EA%B5%AC%EC%8B%A4) || [Computing Vision 👁](https://vision.snu.ac.kr/)
 
 ### Education 🎓 
-Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/)
+Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/) <br/>
 [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 #### Curriculum 💻
