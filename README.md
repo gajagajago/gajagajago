@@ -5,7 +5,7 @@ FE lead @ app [GUAM](https://github.com/wafflestudio/guam_front) <br/>
 Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
 
 ### I'm looking forward to 🔍 ...
-M.S in [Machine Learning 🤖](http://mllab.snu.ac.kr/) || [Embedded Systems 📀](https://cse.snu.ac.kr/lab/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%B0%EA%B5%AC%EC%8B%A4) || [Computing Vision 👁](https://vision.snu.ac.kr/)
+M.S in [Computing Vision 👁](https://vision.snu.ac.kr/) || [Human Centered Computing 👨‍👩‍👦](https://hcs.snu.ac.kr/)
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/) <br/>
@@ -13,7 +13,7 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 
 #### Curriculum 💻
 ```
-22-1: 알고리즘, 운영체제
+22-1: 알고리즘, 운영체제, 그래픽스
 21-2: 컴퓨터비전, 시스템프로그래밍, 모바일 컴퓨팅과 응용, 공학지식의 실무응용, 선형대수학, 경영전략
 21-1: 컴퓨터구조, 논리설계, 이산수학, 전기전자회로, 관리회계
 20-1: 자료구조, 컴퓨터프로그래밍, 인사관리, 벤처창업론
