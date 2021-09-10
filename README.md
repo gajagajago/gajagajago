@@ -4,8 +4,7 @@
 “The people who are crazy enough to think they can change the world are the ones who do.”
 
 ### I'm currently ⏳ ...
-FE lead @ app [GUAM](https://github.com/wafflestudio/guam_front) <br/>
-Deeply immersed in ***Machine Learning & Deep Learning*** 🤓 <br/>
+FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm looking forward to 🔍 ...
 M.S in [Computing Vision 👁](https://vision.snu.ac.kr/) || [Human Centered Computing 👨‍👩‍👦](https://hcs.snu.ac.kr/)
