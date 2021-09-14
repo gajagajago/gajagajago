@@ -32,7 +32,7 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 ### Skills 📚
 Strong: ```Flutter``` ```JavaScript``` ```Ruby on Rails``` <br/>
 Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BSV``` ```Verilog``` <br/>
-Knowledge: ```React``` ```React Native``` ```Tensorflow 2.0``` <br/>
+Knowledge: ```C``` ```Swift``` ```Tensorflow 2.0``` <br/>
 
 ### Contact 📧
 Email: gajagajago@naver.com
