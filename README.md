@@ -1,7 +1,7 @@
 ## Ryu Junyul (Daniel Ryu)
 
 ### I believe ...
-“The people who are crazy enough to think they can change the world are the ones who do.”
+“People crazy enough to think **they can change the world** are the ones who do.”
 
 ### I'm currently ⏳ ...
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
