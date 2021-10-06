@@ -6,8 +6,9 @@
 ### I'm currently ⏳ ...
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
-### I'm looking forward to 🔍 ...
-M.S in [Computing Vision 👁](https://vision.snu.ac.kr/) || [Human Centered Computing 👨‍👩‍👦](https://hcs.snu.ac.kr/)
+### I'm interested in & looking forward to 🔍 ...
+Low level programming || Computer Vision || Human Centered Computing
+M.S in Computer Engineering (2022.08 ~ )
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/) <br/>
