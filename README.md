@@ -31,9 +31,14 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) Frontend Developer (2020.07 ~ 2020.12)<br/>
 
 ### Skills 📚
-Strong: ```Flutter``` ```JavaScript``` ```Ruby on Rails``` <br/>
-Intermediate: ```Java``` ```C++``` ```Vue.js``` ```Python``` ```RISC-V``` ```BSV``` ```Verilog``` <br/>
-Knowledge: ```C``` ```Swift``` ```Tensorflow 2.0``` <br/>
+[Lang]
+Strong: ```C``` ```Dart``` ```JavaScript``` ```BSV```<br/>
+Intermediate: ```Java``` ```C++``` ```Ruby``` ```Python``` ```Verilog``` <br/>
+Knowledge: ```Swift``` <br/>
+[Framework]
+Strong: ```Flutter``` <br/>
+Intermediate: ```Vue.js``` ```RoR``` <br/>
+Knowledge: ```Tensorflow 2.0``` <br/>
 
 ### Contact 📧
 Email: gajagajago@naver.com
