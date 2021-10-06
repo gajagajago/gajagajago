@@ -7,7 +7,7 @@
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
-Low level programming || Computer Vision || Human Centered Computing <br/>
+Low level programming 💽 || Computer Vision 👁 || Human Centered Computing 📱 <br/>
 M.S in Computer Engineering (2022.08 ~ )
 
 ### Education 🎓 
