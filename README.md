@@ -39,7 +39,7 @@ Knowledge: ```Swift``` <br/>
 #### Framework<br>
 Strong: ```Flutter``` <br/>
 Intermediate: ```Vue.js``` ```RoR``` <br/>
-Knowledge: ```Swift UI``` ```Tensorflow 2.0``` <br/>
+Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` <br/>
 
 ### Contact 📧
 Email: gajagajago@naver.com
