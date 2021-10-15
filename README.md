@@ -12,7 +12,7 @@ M.S in [Computer Vision 👁](https://vision.snu.ac.kr/) <br/>
 Starting my career as Google Engineer<br/>
 
 ### Education 🎓 
-Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science](https://cse.snu.ac.kr/) <br/>
+Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
 [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 #### Curriculum 💻
