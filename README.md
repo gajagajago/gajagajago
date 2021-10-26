@@ -9,7 +9,7 @@ FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestu
 ### I'm interested in & looking forward to 🔍 ...
 Low level programming 💽 <br/>
 Mobile App Development 📱 <br/>
-M.S in [Computer Vision 👁](https://vision.snu.ac.kr/) <br/>
+M.S in Computer Sceince <br/>
 Starting my career as Google Engineer<br/>
 
 ### Education 🎓 
