@@ -7,10 +7,9 @@
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
-Low level programming 💽 <br/>
-Mobile App Development 📱 <br/>
+Low level programming 💽 && Mobile App Development 📱 <br/>
 M.S in Computer Sceince <br/>
-Starting my career as Google Engineer<br/>
+Starting my career as **_Noggler_**<br/>
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
