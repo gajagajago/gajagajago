@@ -7,7 +7,7 @@
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
-Low level programming 💽 && Mobile App Development 📱 <br/>
+Systems 💽 && Mobile App Development 📱 <br/>
 M.S in Computer Sceince <br/>
 Starting my career as **_Noogler_**<br/>
 
