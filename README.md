@@ -7,9 +7,9 @@
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
-Systems 💽 & Mobile App Development 📱 <br/>
-M.S in Systems <br/>
-Starting my career as **_Noogler_**<br/>
+Systems 💽 & Mobile App Development 📱 & Deep Learning 🧠 <br/>
+M.S in CS, [System Software and Distributed Systems](https://spl.snu.ac.kr/) <br/>
+Career of Software Engineer <br/>
 
 ### Education 🎓 
 Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
