@@ -4,11 +4,12 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
+Intern @ [Software Platforms Lab](https://spl.snu.ac.kr/) <br/>
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
 Systems 💽 & Mobile App Development 📱 & Deep Learning 🧠 <br/>
-M.S in CS, [System Software and Distributed Systems](https://spl.snu.ac.kr/) <br/>
+M.S in CS, System Software and Distributed Systems <br/>
 Career of Software Engineer <br/>
 
 ### Education 🎓 
