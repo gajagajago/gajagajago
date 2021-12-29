@@ -37,12 +37,12 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 #### Lang<br>
 Strong: ```C``` ```Dart``` ```JavaScript``` ```BSV```<br/>
 Intermediate: ```Java``` ```C++``` ```Ruby``` ```Python``` <br/>
-Knowledge: ```Swift``` ```Verilog``` <br/>
+Knowledge: ```Swift``` ```Verilog``` ```TypeScript``` <br/>
 
 #### Framework<br>
 Strong: ```Flutter``` <br/>
 Intermediate: ```Vue.js``` ```RoR``` <br/>
-Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` <br/>
+Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` ```Angular``` <br/>
 
 ### Contact 📧
 Email: gajagajago@naver.com
