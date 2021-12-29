@@ -29,6 +29,7 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 ```
 
 ### Career 🚀
+[FriendliAI](https://friendli.ai/) Frontend Developer (2022.01 ~ 2022.02)
 [Samsung Electronics CE VD Dept. Intelligent Solution Lab](https://www.samsung.com/sec/) SW Developer (2021.07 ~ 2021.08)<br/>
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) Frontend Developer (2020.07 ~ 2020.12)<br/>
 
