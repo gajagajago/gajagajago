@@ -35,9 +35,9 @@ Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer
 
 ### Skills 📚
 #### Lang<br>
-Strong: ```C``` ```Dart``` ```JavaScript``` ```BSV```<br/>
-Intermediate: ```Java``` ```C++``` ```Ruby``` ```Python``` <br/>
-Knowledge: ```Swift``` ```Verilog``` ```TypeScript``` <br/>
+Strong: ```C``` ```Dart``` ```JavaScript``` <br/>
+Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```Python``` <br/>
+Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
 #### Framework<br>
 Strong: ```Flutter``` <br/>
