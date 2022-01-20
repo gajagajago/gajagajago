@@ -13,7 +13,7 @@ M.S in CS, System Software and Distributed Systems <br/>
 Career of Software Engineer <br/>
 
 ### Education 🎓 
-Seoul National University, B.S in [Business](https://cba.snu.ac.kr/) & [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
+Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
 [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 #### Curriculum 💻
