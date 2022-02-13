@@ -8,9 +8,8 @@ Intern @ [Software Platforms Lab](https://spl.snu.ac.kr/) <br/>
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### I'm interested in & looking forward to 🔍 ...
-Systems 💽 & Mobile App Development 📱 & Deep Learning 🧠 <br/>
-M.S in CS, System Software and Distributed Systems <br/>
-Career of Software Engineer <br/>
+MLOps, NLP, Mobile Development <br/>
+M.S in CS, MLOps for NLP models <br/>
 
 ### Education 🎓 
 Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
