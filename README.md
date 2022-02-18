@@ -17,8 +17,8 @@ Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Co
 
 #### Curriculum 💻
 ```
-22-1: 알고리즘, 운영체제, 고급 컴퓨터구조, 고급 컴파일러
-21-2: 컴퓨터비전, 시스템프로그래밍, 모바일 컴퓨팅과 응용, 공학지식의 실무응용, 선형대수학, 경영전략
+22-1: Algorithms, Operating Systems, Advanced Computer Architecture, Advanced Compilers, Applications of Natural Language Processing
+21-2: Computer Vision, System Programming, Mobile Computing and Its Applications, Field Applications of Engineering Knowledge, Introduction to Linear Algebra, Strategic Management
 21-1: 컴퓨터구조, 논리설계, 이산수학, 전기전자회로, 관리회계
 20-1: 자료구조, 컴퓨터프로그래밍, 인사관리, 벤처창업론
 19-2: 벤처창업웹프로그래밍1, 컴퓨터의 개념 및 실습, 회계원리, 기업재무론
