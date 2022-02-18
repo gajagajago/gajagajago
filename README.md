@@ -19,12 +19,12 @@ Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Co
 ```
 22-1: Algorithms, Operating Systems, Advanced Computer Architecture, Advanced Compilers, Applications of Natural Language Processing
 21-2: Computer Vision, System Programming, Mobile Computing and Its Applications, Field Applications of Engineering Knowledge, Introduction to Linear Algebra, Strategic Management
-21-1: 컴퓨터구조, 논리설계, 이산수학, 전기전자회로, 관리회계
-20-1: 자료구조, 컴퓨터프로그래밍, 인사관리, 벤처창업론
-19-2: 벤처창업웹프로그래밍1, 컴퓨터의 개념 및 실습, 회계원리, 기업재무론
-19-1: 조직행위론, 마케팅사례연구, 경영과학, 재무관리
-16-2: 경제원론, 마케팅관리
-16-1: 경영학원론
+21-1: Computer Architecture, Logic Design, Discrete Mathematics, Electrical and Electronic Circuits, Managerial Accounting
+20-1: Data Structures, Computer Programming, Human Resource Management, Business Venture and Entrepreneurship
+19-2: Web Programming1 for Entrepreneurship Management, Digital Computer Concept and Practice, Principles of Accounting, Corporate Finance
+19-1: Organizational Behavior, Case Studies in Marketing, Management Science, Financial Management
+16-2: Principles of Economics, Marketing Management
+16-1: Principles of Management
 ```
 
 ### Career 🚀
