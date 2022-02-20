@@ -9,6 +9,7 @@ FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestu
 
 ### I'm interested in & looking forward to 🔍 ...
 ML, MLOps, NLP, Mobile App Dev<br/>
+My research & dev note published at [here](https://gajagajago.hashnode.dev/)<br/>
 
 ### Education 🎓 
 Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
