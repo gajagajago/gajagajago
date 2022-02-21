@@ -7,8 +7,9 @@
 Intern @ [Software Platforms Lab](https://spl.snu.ac.kr/) <br/>
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
-### I'm interested in & looking forward to 🔍 ...
-ML, MLOps, NLP, Mobile App Dev<br/>
+### My field of research / interest lies on 🔍 ...
+ML, MLOps, Continual learning, Multi-modal learning<br/>
+Unsupervised learning for General AI<br/>
 My research & dev note published at [here](https://gajagajago.hashnode.dev/)<br/>
 
 ### Education 🎓 
