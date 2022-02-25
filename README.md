@@ -4,7 +4,6 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
-Intern @ [Software Platforms Lab](https://spl.snu.ac.kr/) <br/>
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### My field of research / interest lies on 🔍 ...
