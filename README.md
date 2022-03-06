@@ -9,7 +9,7 @@ FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestu
 ### My field of research / interest lies on 🔍 ...
 ML, MLOps, Continual learning, Multi-modal learning<br/>
 Unsupervised learning for General AI<br/>
-My research & dev note published at [here](https://gajagajago.hashnode.dev/)<br/>
+My research & dev note published at [here](https://medium.com/@gajagajago)<br/>
 
 ### Education 🎓 
 Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
