@@ -17,7 +17,7 @@ Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Co
 
 #### Curriculum 💻
 ```
-22-1: Algorithms, Operating Systems, Advanced Computer Architecture, Advanced Compilers
+22-1: Algorithms, Operating Systems, Advanced Compilers
 21-2: Computer Vision, System Programming, Mobile Computing and Its Applications, Field Applications of Engineering Knowledge, Introduction to Linear Algebra, Strategic Management
 21-1: Computer Architecture, Logic Design, Discrete Mathematics, Electrical and Electronic Circuits, Managerial Accounting
 20-1: Data Structures, Computer Programming, Human Resource Management, Business Venture and Entrepreneurship
@@ -34,8 +34,8 @@ Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Co
 
 ### Skills 📚
 #### Lang<br>
-Strong: ```C``` ```Dart``` ```JavaScript``` <br/>
-Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```Python``` <br/>
+Strong: ```C``` ```Dart``` ```JavaScript``` ```Python``` <br/>
+Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` <br/>
 Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
 #### Framework<br>
