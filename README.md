@@ -4,15 +4,15 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
+MS student @ [SNUSPL](https://spl.snu.ac.kr/) <br/>
 FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### My field of research / interest lies on 🔍 ...
-ML, MLOps, Continual learning, Multi-modal learning<br/>
-Unsupervised learning for General AI<br/>
+Systems for ML<br/>
 My research & dev note published at [here](https://medium.com/@gajagajago)<br/>
 
 ### Education 🎓 
-Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/)
+Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/) <br/>
 Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
 [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
