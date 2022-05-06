@@ -12,6 +12,7 @@ Unsupervised learning for General AI<br/>
 My research & dev note published at [here](https://medium.com/@gajagajago)<br/>
 
 ### Education 🎓 
+Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/)
 Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
 [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
