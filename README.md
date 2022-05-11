@@ -5,7 +5,6 @@
 
 ### I'm currently ⏳ ...
 MS student @ [SNUSPL](https://spl.snu.ac.kr/) <br/>
-FE lead @ app [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) <br/>
 
 ### My field of research / interest lies on 🔍 ...
 Systems for ML<br/>
@@ -29,6 +28,7 @@ Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Co
 ```
 
 ### Career 🚀
+[GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) FE Lead (2021.03 ~ 2022.03) <br/>
 [FriendliAI](https://friendli.ai/) Frontend Developer Intern (2022.01 ~ 2022.02)<br/>
 [Samsung Electronics CE VD Dept. Intelligent Solution Lab](https://www.samsung.com/sec/) SW Developer Intern (2021.07 ~ 2021.08)<br/>
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) Frontend Developer Intern (2020.07 ~ 2020.12)<br/>
