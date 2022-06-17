@@ -1,4 +1,4 @@
-## Ryu Junyul (Daniel Ryu)
+## Ryu Junyeol (Daniel Ryu)
 
 ### I believe ...
 “People crazy enough to think **_they can change the world_** are the ones who do.”
