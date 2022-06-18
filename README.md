@@ -4,17 +4,17 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
-Building resource sensitive GPU cluster manager 
-Learning Docker & k8s
+- Building resource sensitive GPU cluster manager 
+- Learning Docker & k8s
 
 ### My field of research / interest lies on 🔍 ...
-Systems for ML<br/>
-My research & dev note published at [here](https://medium.com/@gajagajago)<br/>
+- Systems for ML
+- My research & dev note published at [here](https://medium.com/@gajagajago)
 
 ### Education 🎓 
-Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/) <br/>
-Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) <br/>
-[Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
+- Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/) 
+- Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/) 
+- [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 #### Curriculum 💻
 ```
