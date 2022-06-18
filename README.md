@@ -4,7 +4,8 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
-MS student @ [SNUSPL](https://spl.snu.ac.kr/) <br/>
+Building resource sensitive GPU cluster manager 
+Learning Docker & k8s
 
 ### My field of research / interest lies on 🔍 ...
 Systems for ML<br/>
