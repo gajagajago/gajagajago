@@ -6,9 +6,11 @@
 ### I'm currently ⏳ ...
 - Building resource sensitive GPU cluster manager 
 - Learning Docker & k8s
+- Studying DBMS, Network
 
 ### My field of research / interest lies on 🔍 ...
 - Systems for ML
+- Operating Systems
 - My research & dev note published at [here](https://medium.com/@gajagajago)
 
 ### Education 🎓 
