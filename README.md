@@ -5,7 +5,7 @@
 
 ### I'm currently ⏳ ...
 - Building resource sensitive GPU cluster manager 
-- Learning Docker & k8s
+- Learning Docker, k8s, CUDA
 - Studying DBMS, Network
 
 ### My field of research / interest lies on 🔍 ...
