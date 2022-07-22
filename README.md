@@ -4,7 +4,7 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
-- Building resource sensitive GPU cluster manager 
+- Building Multi Tenant DL cluster manager 
 - Learning Docker, k8s, CUDA
 - Studying DBMS, Network
 
