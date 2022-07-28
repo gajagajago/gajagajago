@@ -14,10 +14,11 @@
 - My research & dev note published at [here](https://medium.com/@gajagajago)
 
 ### Education 🎓 
-- Seoul National University, MS in Computer Science Engineering, [SP Lab](https://spl.snu.ac.kr/) 
-- Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [Computer Science Engineering](https://cse.snu.ac.kr/), ***_summa cum laude_***
+- Seoul National University, MS in CSE, [SP Lab](https://spl.snu.ac.kr/) 
+- Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [CSE](https://cse.snu.ac.kr/), ***_summa cum laude_***
 - [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
+<!--
 #### Curriculum 💻
 ```
 22-1: Algorithms, Operating Systems, Advanced Compilers
@@ -29,7 +30,7 @@
 16-2: Principles of Economics, Marketing Management
 16-1: Principles of Management
 ```
-
+-->
 ### Career 🚀
 [GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) FE Lead (2021.03 ~ 2022.03) <br/>
 [FriendliAI](https://friendli.ai/) FE Intern (2022.01 ~ 2022.02)<br/>
