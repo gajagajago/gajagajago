@@ -19,7 +19,7 @@
 - [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 ### Teaching 🧑‍🏫 
-- Principles and Practices of Software Development (2022 fall)
+- Principles and Practices of Software Development (TA, 2022 fall)
 <!--
 #### Curriculum 💻
 ```
