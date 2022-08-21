@@ -18,6 +18,8 @@
 - Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [CSE](https://cse.snu.ac.kr/), ***_summa cum laude_***
 - [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
+### Teaching 🧑‍🏫 
+- Principles and Practices of Software Development (2022 fall)
 <!--
 #### Curriculum 💻
 ```
