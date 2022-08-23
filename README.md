@@ -4,9 +4,8 @@
 “People crazy enough to think **_they can change the world_** are the ones who do.”
 
 ### I'm currently ⏳ ...
-- Building Multi Tenant DL cluster manager 
-- Learning Docker, k8s, CUDA
-- Studying DBMS, Network
+- Building multi-tenant DL cluster manager 
+- Studying DBMS, Network, Parallel computing
 
 ### My field of research / interest lies on 🔍 ...
 - Systems for ML
