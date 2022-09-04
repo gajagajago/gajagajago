@@ -1,11 +1,11 @@
 ## Ryu Junyeol (Daniel Ryu)
 
-### I believe ...
-“People crazy enough to think **_they can change the world_** are the ones who do.”
+> "We will not attempt any interpretation ... ..., but merely note that we are generally satisfied with the overall performance of the system."<br/>
+> Dennis M.Ritchie & Ken Thompson, "The UNIX Time-Sharing System", CAKM 1974
 
-### I'm currently ⏳ ...
-- Building multi-tenant DL cluster manager 
-- Studying DBMS, Network, Parallel computing
+### I am ...
+- A first year masters' degree student in SNU CSE
+- A system builder, full of ambition and eagerness to learn
 
 ### My field of research / interest lies on 🔍 ...
 - Systems for ML
@@ -41,7 +41,7 @@
 ### Skills 📚
 #### Lang<br>
 Strong: ```C``` ```Dart``` ```JavaScript``` ```Python``` <br/>
-Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```CUDA C``` <br/>
+Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```CUDA``` <br/>
 Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
 #### Framework<br>
@@ -50,4 +50,4 @@ Intermediate: ```Angular``` ```Vue.js``` ```RoR``` ```PyTorch``` <br/>
 Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` <br/>
 
 ### Contact 📧
-Email: gajagajago@naver.com
+Email: gajagajago@snu.ac.kr
