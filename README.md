@@ -1,4 +1,4 @@
-## Ryu Junyeol (Daniel Ryu)
+## Junyeol Ryu
 
 > "We will not attempt any interpretation ... ..., but merely note that we are generally satisfied with the overall performance of the system."<br/>
 > Dennis M.Ritchie & Ken Thompson, "The UNIX Time-Sharing System", CAKM 1974
