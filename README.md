@@ -46,7 +46,7 @@ Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
 #### Framework<br>
 Strong: ```Flutter``` <br/>
-Intermediate: ```Angular``` ```Vue.js``` ```RoR``` ```PyTorch``` <br/>
+Intermediate: ```Angular``` ```Vue.js``` ```RoR``` ```PyTorch``` ```React``` ```Django``` <br/>
 Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` <br/>
 
 ### Contact 📧
