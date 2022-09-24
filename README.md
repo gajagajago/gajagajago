@@ -41,7 +41,7 @@
 ### Skills 📚
 #### Lang<br>
 Strong: ```C``` ```Dart``` ```JavaScript``` ```Python``` <br/>
-Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```CUDA``` <br/>
+Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```CUDA``` ```OpenCL``` ```OpenMP``` ```OpenMPI```<br/>
 Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
 #### Framework<br>
