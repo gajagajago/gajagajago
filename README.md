@@ -10,7 +10,9 @@
 ### My field of research / interest lies on 🔍 ...
 - Systems for ML
 - Operating Systems
-- My research & dev note published at [here](https://medium.com/@gajagajago)
+- My research & dev note published at 
+    - [Medium](https://medium.com/@gajagajago)
+    - [Notion](www.notion.so/jyryu)
 
 ### Education 🎓 
 - Seoul National University, MS in CSE, [SP Lab](https://spl.snu.ac.kr/) 
