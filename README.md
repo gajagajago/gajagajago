@@ -12,7 +12,7 @@
 - Operating Systems
 - My research & dev note published at 
     - [Medium](https://medium.com/@gajagajago)
-    - [Notion](www.notion.so/jyryu)
+    - [Notion](https://notion.so/jyryu)
 
 ### Education 🎓 
 - Seoul National University, MS in CSE, [SP Lab](https://spl.snu.ac.kr/) 
