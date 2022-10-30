@@ -5,7 +5,6 @@
 
 ### I am ...
 - A first year masters' degree student in SNU CSE
-- A system builder, full of ambition and eagerness to learn
 
 ### My field of research / interest lies on 🔍 ...
 - Systems for ML
@@ -16,11 +15,15 @@
 
 ### Education 🎓 
 - Seoul National University, MS in CSE, [SP Lab](https://spl.snu.ac.kr/) 
-- Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [CSE](https://cse.snu.ac.kr/), ***_summa cum laude_***
+- Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [CSE](https://cse.snu.ac.kr/)
+    - Double major 
+    - 3.94 / 4.3 (GPA: 96.4) 
+    - ***_summa cum laude_***
 - [Daewon FLHS](http://www.dwfl.hs.kr/), major in Chinese Language
 
 ### Teaching 🧑‍🏫 
-- Principles and Practices of Software Development (TA, 2022 fall)
+- SNU
+    - M1522.002400 Principles and Practices of Software Development (TA, 2022 fall)
 <!--
 #### Curriculum 💻
 ```
@@ -41,15 +44,11 @@
 [Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) FE Intern (2020.07 ~ 2020.12)<br/>
 
 ### Skills 📚
-#### Lang<br>
-Strong: ```C``` ```Dart``` ```JavaScript``` ```Python``` <br/>
-Intermediate: ```TypeScript``` ```Java``` ```C++``` ```Ruby``` ```CUDA``` ```OpenCL``` ```OpenMP``` ```OpenMPI```<br/>
-Knowledge: ```Swift``` ```Verilog``` ```BSV``` <br/>
 
-#### Framework<br>
-Strong: ```Flutter``` <br/>
-Intermediate: ```Angular``` ```Vue.js``` ```RoR``` ```PyTorch``` ```React``` ```Django``` <br/>
-Knowledge: ```Android Studio``` ```Swift UI``` ```Tensorflow 2.0``` <br/>
+- I like to build systems using ```C```, ```OpenMP```, ```OpenMPI```. 
+- I have experiences programming GPU using ```CUDA```, ```OpenCL```.
+- I like to prototype using ```Python```, and can use ```Pytorch```, ```Tensorflow``` for deep learning.
+- I also have experiences for software engineering using ```TypeScript``` and various frontend/backend frameworks.
 
 ### Contact 📧
 Email: gajagajago@snu.ac.kr
