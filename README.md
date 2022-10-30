@@ -48,6 +48,7 @@
 - I like to build systems using ```C```, ```OpenMP```, ```OpenMPI```. 
 - I have experiences programming GPU using ```CUDA```, ```OpenCL```.
 - I like to prototype using ```Python```, and can use ```Pytorch```, ```Tensorflow``` for deep learning.
+- I have hands-on experiences hacking the Linux Kernel, Slurm, and various open-source DL frameworks. 
 - I also have experiences for software engineering using ```TypeScript``` and various frontend/backend frameworks.
 
 ### Contact 📧
