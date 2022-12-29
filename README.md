@@ -4,11 +4,10 @@
 > Dennis M.Ritchie & Ken Thompson, "The UNIX Time-Sharing System", CACM 1974
 
 ### I am ...
-- A first year masters' degree student in SNU CSE
+- A first year masters' degree student in SNUCSE (Advisor: Prof. Byung-gon Chun)
 
 ### My field of research / interest lies on 🔍 ...
-- Systems for ML
-- Operating Systems
+- Systematic problems that arise in supporting large scale distributed applications 
 - My research & dev note published at 
     - [Medium](https://medium.com/@gajagajago)
     - [Notion](https://notion.so/jyryu)
@@ -50,6 +49,9 @@
 - I like to prototype using ```Python```, and can use ```Pytorch```, ```Tensorflow``` for deep learning.
 - I have hands-on experiences hacking the Linux Kernel, Slurm, and various open-source DL frameworks. 
 - I also have experiences for software engineering using ```TypeScript``` and various frontend/backend frameworks.
+
+### Publications
+- "Investigating Contention Sensitivity of DL Training Workloads in Shared GPU Cluster", KSC 2022[Best Paper Award]
 
 ### Contact 📧
 Email: gajagajago@snu.ac.kr
