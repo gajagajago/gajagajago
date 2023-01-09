@@ -37,18 +37,16 @@
 ```
 -->
 ### Career 🚀
-[GUAM](https://play.google.com/store/apps/details?id=com.wafflestudio.guam) FE Lead (2021.03 ~ 2022.03) <br/>
+GUAM [Google](https://play.google.com/store/apps/details?id=com.wafflestudio.guam_community) [Apple](https://apps.apple.com/kr/app/guam-community/id1627233509) FE Lead (2021.03 ~ 2022.03) <br/>
 [FriendliAI](https://friendli.ai/) FE Intern (2022.01 ~ 2022.02)<br/>
 [Samsung Electronics CE VD Dept. Intelligent Solution Lab](https://www.samsung.com/sec/) SW Intern (2021.07 ~ 2021.08)<br/>
-[Vanilla Bridge](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) FE Intern (2020.07 ~ 2020.12)<br/>
+Vanilla Bridge[Google](https://play.google.com/store/apps/details?id=com.vanillabridge.app) [Apple](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) FE Intern (2020.07 ~ 2020.12)<br/>
 
 ### Skills 📚
 
-- I like to build systems using ```C```, ```OpenMP```, ```OpenMPI```. 
-- I have experiences programming GPU using ```CUDA```, ```OpenCL```.
-- I like to prototype using ```Python```, and can use ```Pytorch```, ```Tensorflow``` for deep learning.
-- I have hands-on experiences hacking the Linux Kernel, Slurm, and various open-source DL frameworks. 
-- I also have experiences for software engineering using ```TypeScript``` and various frontend/backend frameworks.
+- I have built networked systems for deep learning.
+- I have experiences hacking the Linux Kernel, Slurm, and various open-source DL frameworks. 
+- I also have experiences for software engineering using various frontend/backend frameworks.
 
 ### Publications
 - "Investigating Contention Sensitivity of DL Training Workloads in Shared GPU Cluster", KSC 2022[Best Paper Award]
