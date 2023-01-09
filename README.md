@@ -37,10 +37,10 @@
 ```
 -->
 ### Career 🚀
-GUAM [Google](https://play.google.com/store/apps/details?id=com.wafflestudio.guam_community) [Apple](https://apps.apple.com/kr/app/guam-community/id1627233509) FE Lead (2021.03 ~ 2022.03) <br/>
+GUAM FE Lead (2021.03 ~ 2022.03) [Google](https://play.google.com/store/apps/details?id=com.wafflestudio.guam_community) [Apple](https://apps.apple.com/kr/app/guam-community/id1627233509) <br/>
 [FriendliAI](https://friendli.ai/) FE Intern (2022.01 ~ 2022.02)<br/>
 [Samsung Electronics CE VD Dept. Intelligent Solution Lab](https://www.samsung.com/sec/) SW Intern (2021.07 ~ 2021.08)<br/>
-Vanilla Bridge[Google](https://play.google.com/store/apps/details?id=com.vanillabridge.app) [Apple](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) FE Intern (2020.07 ~ 2020.12)<br/>
+Vanilla Bridge FE Intern (2020.07 ~ 2020.12) [Google](https://play.google.com/store/apps/details?id=com.vanillabridge.app) [Apple](https://apps.apple.com/kr/app/%EB%B0%94%EB%8B%90%EB%9D%BC%EB%B8%8C%EB%A6%BF%EC%A7%80/id1219876826) <br/>
 
 ### Skills 📚
 
