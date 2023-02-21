@@ -48,8 +48,6 @@ Vanilla Bridge FE Intern (2020.07 ~ 2020.12) [Google](https://play.google.com/st
 - I have experiences hacking the Linux Kernel, Slurm, and various open-source DL frameworks. 
 - I also have experiences for software engineering using various frontend/backend frameworks.
 
-### Publications
-- "Investigating Contention Sensitivity of DL Training Workloads in Shared GPU Cluster", KSC 2022[Best Paper Award]
-
 ### Contact 📧
+CV: [link](https://docs.google.com/document/d/1VK2yzgQsrT3SYJunz558xgxoK7FT0RHgJd8E1g7rJ7A/edit#)
 Email: gajagajago@snu.ac.kr
