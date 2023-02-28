@@ -4,7 +4,7 @@
 > Dennis M.Ritchie & Ken Thompson, "The UNIX Time-Sharing System", CACM 1974
 
 ### I am ...
-- A first year masters' degree student in SNUCSE (Advisor: Prof. Byung-gon Chun)
+- A first year masters' student in SNU CSE (Advisor: Prof. Jaejin Lee)
 
 ### My field of research / interest lies on 🔍 ...
 - Systematic problems that arise in supporting large scale distributed applications 
@@ -13,7 +13,7 @@
     - [Notion](https://notion.so/jyryu)
 
 ### Education 🎓 
-- Seoul National University, MS in CSE, [SP Lab](https://spl.snu.ac.kr/) 
+- Seoul National University, MS in CSE, [Thunder Lab](http://aces.snu.ac.kr/) 
 - Seoul National University, BBA in [Business](https://cba.snu.ac.kr/) & BS in [CSE](https://cse.snu.ac.kr/)
     - Double major 
     - 3.94 / 4.3 (GPA: 96.4) 
