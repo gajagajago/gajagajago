@@ -40,4 +40,4 @@ Vanilla Bridge FE Intern (2020.07 ~ 2020.12) [Google](https://play.google.com/st
 -->
 ### Contact 📧
 - CV: [link](https://docs.google.com/document/d/1VK2yzgQsrT3SYJunz558xgxoK7FT0RHgJd8E1g7rJ7A/edit#)
-- Email: gajagajago@snu.ac.kr
+- Email: junyeol@aces.snu.ac.kr
